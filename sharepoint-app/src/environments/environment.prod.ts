@@ -1,4 +1,5 @@
 export const environment = {
   production: true,
-  pen: "Pineapple"
+  pen: "Pineapple",
+  routePrefix: "sites/EngageUniversity/SitePages/AngularApp/Index.aspx/"
 };
